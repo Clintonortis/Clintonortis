@@ -1,4 +1,4 @@
-## Hi, I'm a student/beginner in the world of programming. 👋
+## Hi, My name is Angel and I'm a student/beginner 👋
 
 <!--
 **Clintonortis/Clintonortis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
